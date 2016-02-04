@@ -18,15 +18,14 @@ Features:
 *  Only send when values have changed to save battery
 *  Random backoff timer when ACKs not received for each sender
 *  Send frames contain ack error count, and dht22 read error count
-*  Use a stripped down version of SoftwareSerial for read only to save a pin for RX
-*  and memory on the attiny
+*  Use a stripped down version of SoftwareSerial for read only to save a pin for RX and memory on the attiny
 *  Battery protection: shuts down when voltage is low to prevent leakage
 
-The link from the received bytes on serial to OpenHab is done by a python
+The received bytes on serial on the raspberry pi are interpreted and pushed to OpenHab by a python
 programm located in  "processing scripts"
 
-"tinySender" contains the sender arduino sketch
-"tinyReveiver" the receiver sketch
-"SendOnlySoftwareSerial" is a stripped down version of the original Arduino library
-See the JPG file for a glimpse of the TinyTX4 board with the battery level reading
+* "tinySender" contains the sender arduino sketch
+* "tinyReveiver" the receiver sketch
+* "SendOnlySoftwareSerial" is a stripped down version of the original Arduino library
+* See the JPG file for a glimpse of the TinyTX4 board with the battery level reading
  "circuit".
