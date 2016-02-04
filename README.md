@@ -1,13 +1,13 @@
 # TinyTX-TinyRX-Project
 
 This program and project is based on the awesome work of Nathan Chantrell
-* https://nathan.chantrell.net/tag/tinytx/
-* https://github.com/nathanchantrell/TinyTX
-and was deployed on the TinyTX4 board by meigrafd
-* https://github.com/meigrafd/TinyTX4
- Also inspired by the emonTH project
-* https://github.com/openenergymonitor/emonTH
-other references in the code
+* https://nathan.chantrell.net/tag/tinytx/  
+* https://github.com/nathanchantrell/TinyTX  
+and was deployed on the TinyTX4 board by meigrafd  
+* https://github.com/meigrafd/TinyTX4  
+ Also inspired by the emonTH project  
+* https://github.com/openenergymonitor/emonTH  
+other references in the code  
 
 Features:
 *  Support of one or two DHT22 on one sender
