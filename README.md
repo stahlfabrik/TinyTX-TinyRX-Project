@@ -1,6 +1,6 @@
 # TinyTX-TinyRX-Project
 
-This programm and project is based on the awesome work of Nathan Chantrell
+This program and project is based on the awesome work of Nathan Chantrell
 * https://nathan.chantrell.net/tag/tinytx/
 * https://github.com/nathanchantrell/TinyTX
 and was deployed on the TinyTX4 board by meigrafd
